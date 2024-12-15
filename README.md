@@ -1,6 +1,9 @@
 # 🎓 Stephen Wend-Bell
 
-**"Pursuing a Bachelors Degree in Computer Engineering @ UC Santa Cruz"**
+**`Computer Engineering @ UC Santa Cruz`**
+
+I'm a fourth year student pursuing my Bachelor's Degree at UC Santa Cruz. I'm interested in topics such as software engineering, computer networking, game development, and artificial intelligence.
+Here on my github profile, I have organized many of my personal and school projects.
 
 
 <!--
