@@ -1,4 +1,7 @@
-## Hi there 👋
+# 🎓 Stephen Wend-Bell
+
+**"Pursuing a Bachelors Degree in Computer Engineering @ UC Santa Cruz"**
+
 
 <!--
 **Stephenwb1/Stephenwb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
