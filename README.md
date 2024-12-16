@@ -21,14 +21,14 @@ Here on my github profile, I have organized many of my personal and school proje
 ---
 ### Latest Projects
 
-[TCP Chat Application][tcp_link]
+### [TCP Chat Application][tcp_link]
 * *Allows users to send messages over the internet over a secure TCP connection*
 * *Written in python using socket API inside the Mininet VM*
 
 <img src="https://github.com/user-attachments/assets/19f547f4-9df0-468e-8571-252f748853f8" width="400" height="350">
 <img src="https://github.com/user-attachments/assets/18f6ea9a-ec2c-4b59-886a-141529ff29af" width="400" height="350">
 
-[Snake][snake_link] and [Tetris][tetris_link]
+### [Snake][snake_link] and [Tetris][tetris_link]
 * *Made in the Godot game engine using GDScript*
 * *Helped to further develop my programming skills and workflow*
 
