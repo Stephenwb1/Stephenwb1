@@ -21,12 +21,21 @@ Here on my github profile, I have organized many of my personal and school proje
 ---
 ### Latest Projects
 
-TCP Chat Application
+[TCP Chat Application][tcp_link]
 * *Allows multiple users to send custom messages to each other through the internet*
 * *Written in python using socket API inside the Mininet VM*
 
 ![alice gif](https://github.com/user-attachments/assets/19f547f4-9df0-468e-8571-252f748853f8)
 ![bob gif](https://github.com/user-attachments/assets/18f6ea9a-ec2c-4b59-886a-141529ff29af)
 
+[Snake][snake_link] and [Tetris][tetris_link]
+* *Made in the Godot game engine using GDScript*
+* *Helped to further develop my programming skills and workflow*
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
+<img src="https://github.com/user-attachments/assets/52049024-f8b9-4d2e-b309-346b32bb3bf2" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/4af98dcf-38c7-4442-ae40-58cda5a8ad55" width="400" height="400">
+
+[tcp_link]: https://github.com/Stephenwb1/TCP-Chat-Application
+[snake_link]: https://github.com/Stephenwb1/Snake-June-2024
+[tetris_link]: https://github.com/Stephenwb1/Tetris-June-2024
