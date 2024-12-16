@@ -18,9 +18,15 @@ Here on my github profile, I have organized many of my personal and school proje
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+---
+### Latest Projects
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+TCP Chat Application
+* *Allows multiple users to send custom messages to each other through the internet*
+* *Written in python using socket API inside the Mininet VM*
 
 ![alice gif](https://github.com/user-attachments/assets/19f547f4-9df0-468e-8571-252f748853f8)
 ![bob gif](https://github.com/user-attachments/assets/18f6ea9a-ec2c-4b59-886a-141529ff29af)
+
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
