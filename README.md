@@ -25,8 +25,8 @@ Here on my github profile, I have organized many of my personal and school proje
 * *Allows multiple users to send custom messages to each other through the internet*
 * *Written in python using socket API inside the Mininet VM*
 
-![alice gif](https://github.com/user-attachments/assets/19f547f4-9df0-468e-8571-252f748853f8)
-![bob gif](https://github.com/user-attachments/assets/18f6ea9a-ec2c-4b59-886a-141529ff29af)
+<img src="https://github.com/user-attachments/assets/19f547f4-9df0-468e-8571-252f748853f8" width="450" height="400">
+<img src="https://github.com/user-attachments/assets/18f6ea9a-ec2c-4b59-886a-141529ff29af" width="450" height="400">
 
 [Snake][snake_link] and [Tetris][tetris_link]
 * *Made in the Godot game engine using GDScript*
