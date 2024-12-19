@@ -10,16 +10,25 @@ Here on my github profile, I have organized many of my personal and school proje
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 ---
 ### Latest Projects
+
+### [Image to ASCII Website][ascii_link]
+* *Upload an image, click convert, and watch it become ASCII characters! <strong>[Click Here][web_link]</strong> to try!*
+* *Designed and developed a responsive ASCII Photo Generator website using HTML, CSS, and JavaScript.*
+* *Used Canvas API in JavaScript to manipulate image data, including extracting dimensions and pixel values for processing.*
+  
+<img src="https://github.com/user-attachments/assets/098355af-36db-40fc-bb8d-848010f55702" width="800" height="500"/>
 
 ### [TCP Chat Application][tcp_link]
 * *Allows users to send messages over the internet over a secure TCP connection*
@@ -39,3 +48,5 @@ Here on my github profile, I have organized many of my personal and school proje
 [tcp_link]: https://github.com/Stephenwb1/TCP-Chat-Application
 [snake_link]: https://github.com/Stephenwb1/Snake-June-2024
 [tetris_link]: https://github.com/Stephenwb1/Tetris-June-2024
+[ascii_link]: https://github.com/Stephenwb1/Stephenwb1.github.io
+[web_link]: https://stephenwb1.github.io/index.html
