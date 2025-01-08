@@ -7,6 +7,10 @@ Here on my github profile, I have organized many of my personal and school proje
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -14,14 +18,22 @@ Here on my github profile, I have organized many of my personal and school proje
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
 <br />
 
 ---
 ### Latest Projects
+
+### [JobMe][JobMe_repo_link] 
+* *<strong>[Click Here][web_link]</strong> to try!*
+* *Developed RESTful APIs for seamless communication between the React frontend and Node.js/Express backend.*
+* *Implemented a secure user login system using JWT authentication and bcrypt password hashing.*
+* *Implemented Mongoose models to streamline interactions between the application and the MongoDB database*
+* *Integrated form validation and error handling to ensure data integrity and improve user feedback.*
+  
+ <img src="https://github.com/user-attachments/assets/1af6f747-0243-40d5-a8f4-7dfffefe9521" width="800" height="500" />
 
 ### [Image to ASCII Website][ascii_link]
 * *Upload an image, click convert, and watch it become ASCII characters! <strong>[Click Here][web_link]</strong> to try!*
@@ -50,3 +62,5 @@ Here on my github profile, I have organized many of my personal and school proje
 [tetris_link]: https://github.com/Stephenwb1/Tetris-June-2024
 [ascii_link]: https://github.com/Stephenwb1/Stephenwb1.github.io
 [web_link]: https://stephenwb1.github.io/index.html
+[JobMe_repo_link]: https://github.com/Stephenwb1/Application-Tracker
+[JobMe_link]: https://frontend-6e0p.onrender.com
