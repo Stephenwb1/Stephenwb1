@@ -31,7 +31,7 @@ Here on my github profile, I have organized many of my personal and school proje
 * *Configured and debugged low-level I2C protocols to reliably retrieve real-time data from onboard peripherals*
 * *Debugged sensor input and system behavior using ESPLOGI and serial output for calibration and testing*
 
-### [Multithreaded HTTP server][main_link]
+### [Multithreaded HTTP server][http_link]
 * *Optimized for throughput while maintaining coherent and durable request ordering under concurrent workloads*
 * *Enforced memory efficiency by preventing dynamic memory leaks and limiting memory usage to under 10 MB
 * *Integrated a thread-safe queue and reader-writer locks to ensure synchronized access to shared resources and
@@ -61,6 +61,7 @@ atomic request processing*
   
 
 
+[http_link]: https://github.com/Stephenwb1/cse156asgn5
 [main_link]: https://github.com/Stephenwb1
 [mouse_link]: https://github.com/Stephenwb1/cse121_lab4
 [tcp_link]: https://github.com/Stephenwb1/TCP-Chat-Application
