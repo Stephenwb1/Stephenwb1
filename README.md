@@ -39,8 +39,8 @@ Here on my github profile, I have organized many of my personal and school proje
 
 ### 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical&width=400)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stephenwb1&theme=dark&hide_border=true&theme=radical&width=400)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical&width=300)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stephenwb1&theme=dark&hide_border=true&theme=radical&width=300)](https://git.io/streak-stats)
 
 ---
 
