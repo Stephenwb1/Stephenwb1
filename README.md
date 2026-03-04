@@ -36,11 +36,12 @@ Here on my github profile, I have organized many of my personal and school proje
 <br />
 
 ---
-
 ### 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical&width=300)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stephenwb1&theme=dark&hide_border=true&theme=radical&width=300)](https://git.io/streak-stats)
+<p align="left">
+  <img height="200" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical" />
+  <img height="200" src="https://streak-stats.demolab.com?user=Stephenwb1&theme=dark&hide_border=true" />
+</p>
 
 ---
 
