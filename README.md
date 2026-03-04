@@ -39,9 +39,8 @@ Here on my github profile, I have organized many of my personal and school proje
 
 ### 📊 GitHub Stats
 
-![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephenwb1&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwb1&layout=compact&theme=dark&hide_border=true)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stephenwb1&theme=dark&hide_border=true&theme=radical)](https://git.io/streak-stats)
 ---
 
 ### Latest Projects
