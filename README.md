@@ -39,8 +39,8 @@ Here on my github profile, I have organized many of my personal and school proje
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Stephenwb1&theme=radical&hide_border=true" />
+  <img height="160" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stephenwb1?theme=radical" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Stephenwb1&theme=radical&hide_border=true" />
 </p>
 
 ---
