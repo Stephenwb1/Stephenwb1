@@ -2,8 +2,18 @@
 
 **`Computer Engineering @ UC Santa Cruz`**
 
-I'm a fourth year student pursuing my Bachelor's Degree in Computer Engineering at UC Santa Cruz. I'm interested in pursuing a career in software engineering or embedded systems.
+I'm a current student at University of California, Santa Cruz, pursuing my Bachelor's Degree in Computer Engineering with a minor in Computer Science. I'm interested in pursuing a career in software engineering or embedded systems.
 Here on my github profile, I have organized many of my personal and school projects.
+
+📬 Open to full-time SWE and embedded systems roles starting Summer/Fall 2026 — stephenwb360@gmail.com
+
+---
+
+### 🔧 Currently Working On
+- **Autonomous Drone** — ESP32-based user-following drone with BLE mobile control (CSE123 Engineering Design Project)
+- **Memory Allocator & Profiler Dashboard** — Custom malloc/free in C with a Java Spring Boot API and React dashboard
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -11,18 +21,29 @@ Here on my github profile, I have organized many of my personal and school proje
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <br />
 
 ---
+
+### 📊 GitHub Stats
+
+![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephenwb1&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwb1&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ### Latest Projects
 
 ### [Esp32 Bluetooth Mouse][mouse_link]
@@ -33,9 +54,8 @@ Here on my github profile, I have organized many of my personal and school proje
 
 ### [Multithreaded HTTP server][http_link]
 * *Optimized for throughput while maintaining coherent and durable request ordering under concurrent workloads*
-* *Enforced memory efficiency by preventing dynamic memory leaks and limiting memory usage to under 10 MB
-* *Integrated a thread-safe queue and reader-writer locks to ensure synchronized access to shared resources and
-atomic request processing*
+* *Enforced memory efficiency by preventing dynamic memory leaks and limiting memory usage to under 10 MB*
+* *Integrated a thread-safe queue and reader-writer locks to ensure synchronized access to shared resources and atomic request processing*
 
 ### [JobMe][JobMe_repo_link] 
 * *Developed RESTful APIs for seamless communication between the React frontend and Node.js/Express backend.*
@@ -45,10 +65,9 @@ atomic request processing*
 
 ### [Minecraft HTN Planning][main_link]
 * *Programmed an HTN planner to solve crafting and construction problems in a Minecraft-inspired domain*
-* *Enhanced the planner’s performance with bidirectional task decomposition and real-time resource management*
+* *Enhanced the planner's performance with bidirectional task decomposition and real-time resource management*
 * *Translated JSON crafting recipes into HTN operators/methods programmatically, automating the planning process*
 * *Achieved solutions within 30 seconds of real-world time, balancing resource constraints and computational limits*
-
 
 ### [TCP Chat Application][tcp_link]
 * *Allows users to send messages over the internet over a secure TCP connection*
@@ -58,7 +77,7 @@ atomic request processing*
 * *Upload an image, click convert, and watch it become ASCII characters!*
 * *Designed and developed a responsive ASCII Photo Generator website using HTML, CSS, and JavaScript.*
 * *Used Canvas API in JavaScript to manipulate image data, including extracting dimensions and pixel values for processing.*
-  
+
 
 
 [http_link]: https://github.com/Stephenwb1/cse156asgn5
@@ -68,4 +87,3 @@ atomic request processing*
 [ascii_link]: https://github.com/Stephenwb1/Stephenwb1.github.io
 [web_link]: https://stephenwb1.github.io/index.html
 [JobMe_repo_link]: https://github.com/Stephenwb1/Application-Tracker
-
