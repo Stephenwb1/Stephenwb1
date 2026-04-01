@@ -5,7 +5,7 @@
 I'm a current student at University of California, Santa Cruz, pursuing my Bachelor's Degree in Computer Engineering with a minor in Computer Science. I'm interested in pursuing a career in software engineering or embedded systems.
 Here on my github profile, I have organized many of my personal and school projects.
 
-📬 Open to full-time SWE and embedded systems roles starting Summer/Fall 2026 — stephenwb360@gmail.com
+📬 Open to full-time SWE, AI Engineering, and Embedded Systems roles starting June 2026 — stephenwb360@gmail.com
 
 ---
 
