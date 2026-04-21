@@ -2,6 +2,8 @@
 
 **`Computer Engineering @ UC Santa Cruz`**
 
+### [stephenwendbell.dev][portfolio_link]
+
 I'm a current student at University of California, Santa Cruz, pursuing my Bachelor's Degree in Computer Engineering with a minor in Computer Science. I'm interested in pursuing a career in software engineering or embedded systems.
 Here on my github profile, I have organized many of my personal and school projects.
 
@@ -97,7 +99,7 @@ Here on my github profile, I have organized many of my personal and school proje
 * Designed a lightweight messaging protocol ensuring reliable, ordered delivery of messages between connected clients
 
 
-
+[portfolio_link]: https://stephenwendbell.dev
 [http_link]: https://github.com/Stephenwb1/cse156asgn5
 [main_link]: https://github.com/Stephenwb1
 [mouse_link]: https://github.com/Stephenwb1/cse121_lab4
